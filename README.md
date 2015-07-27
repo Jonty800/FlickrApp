@@ -8,3 +8,15 @@ are licensed and distributed under the BSD 3-Clause License:
 ----
 
 Copyright (C) 2014-2015 Jon Baker <jb854@kent.ac.uk> c/o School of Engineering and Digital Arts <http://www.eda.kent.ac.uk> All rights reserved.
+
+
+![alt tag](http://i.imgur.com/fEfgiqU.jpg)
+
+
+![alt tag](http://i.imgur.com/jg06oki.jpg)
+
+
+![alt tag](http://i.imgur.com/PEQ1NYo.jpg)
+
+
+![alt tag](http://i.imgur.com/OWVmhDm.jpg)
